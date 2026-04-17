@@ -29,6 +29,7 @@ An intelligent real-time theft detection system built using YOLOv8 and OpenCV th
 4.Start your bot and send a message (hi)
 5.Open in browser:https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 6.Copy your CHAT_ID
+---
 
 ## ▶️ Usage
 
